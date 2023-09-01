@@ -1,0 +1,24 @@
+[
+    {
+        "model": "levelupapi.game",
+        "pk": 1,
+        "fields": {
+            "name": "Dungeons and Dragons",
+            "gamer": 1,
+            "game_type": 2,
+            "skill_level": "Hard",
+            "players_needed": 5
+        }
+    },
+    {
+        "model": "levelupapi.game",
+        "pk": 2,
+        "fields": {
+            "name": "World of Warcraft",
+            "gamer": 1,
+            "game_type": 3,
+            "skill_level": "Easy",
+            "players_needed": 2
+        }
+    }
+]

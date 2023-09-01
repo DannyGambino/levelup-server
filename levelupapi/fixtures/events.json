@@ -1,0 +1,26 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "organizer": 1,
+            "date": "2023-08-26",
+            "time": "23:00:00",
+            "attendee": [2],
+            "event_name": "Weekend D&D",
+            "game": 1
+        }
+    },
+    {
+        "model": "levelupapi.event",
+        "pk": 2,
+        "fields": {
+            "organizer": 2,
+            "date": "2023-08-27",
+            "time": "21:00:00",
+            "attendee": [1],
+            "event_name": "MMO Sunday",
+            "game": 2
+        }
+    }
+]
